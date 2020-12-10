@@ -2,7 +2,7 @@
   "name": "marketyour.store-to-do-app",
   "version": "1.0.0",
   "description": "",
-  "type" : "module",
+  "type": "module",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/green-fox-academy/marketyour.store-to-do-app#readme",
   "dependencies": {
+    "minimist": "^1.2.5",
     "node": "^15.3.0"
   }
 }
